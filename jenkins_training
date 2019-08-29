@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "This is my output from the test job" >> outfile
